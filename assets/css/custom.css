@@ -1,0 +1,3 @@
+#general_active a.general_active,#employee_active a.employee_active,#addemployee_active a.addemployee_active,#dropdown_active a.dropdown_active,#createfolder_active a.createfolder_active,#product_active a.product_active,#salesproduct_active a.salesproduct_active,#templates_active a.templates_active,#smtp_active a.smtp_active,#bankdetails_active a.bankdetails_active,#forgetpassword_active a.forgetpassword_active,#calender_active a.calender_active,#notes_active a.notes_active{color: #556ee6 ;}
+
+#dashboard_active a.dashboard_active,#leads_active a.leads_active,#sales_active a.sales_active,#kyc_active a.kyc_active,#riskprofile_active a.riskprofile_active,#settings_active a.settings_active{color: #556ee6 ;}
