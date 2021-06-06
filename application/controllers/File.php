@@ -2,7 +2,7 @@
 defined('BASEPATH') OR exit('No direct script access allowed');
 class File extends CI_Controller {
     public function __construct()
-    {
+    {Hi Vidhya,           As per our conversation i have completed all the tasks which are mentioned. Please find the github link below and let me know.
         parent::__construct();
         $this->load->helper('url_helper');
         $this->load->library('session');
